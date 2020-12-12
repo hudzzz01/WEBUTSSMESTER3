@@ -1,0 +1,19 @@
+#navigasi{	
+	background: #eedd82;
+	height: wrap;
+	height: 50px;
+}
+#navigasi li{
+	text-decoration: none;
+ 	display: inline;
+ 	
+}
+#navigasi li a{
+	margin-left: 2px;
+ 	padding: 10px;
+ 	position: relative;
+ 	top: 12px;
+ 	color: black;
+	text-decoration: none;
+	 background: #f2f6ff;
+}
